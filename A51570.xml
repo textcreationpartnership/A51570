@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cry, a cry a sensible cry for many months together hath been in my heart for the Quakers return out of that Egyptian darkness they have long lain in, to the grief of the souls of the righteous, and those that truly loved them.</title>
+            <author>Mudd, Ann.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51570</idno>
+            <idno type="STC">Wing M3037</idno>
+            <idno type="STC">ESTC R32095</idno>
+            <idno type="EEBO-CITATION">12321961</idno>
+            <idno type="OCLC">ocm 12321961</idno>
+            <idno type="VID">59489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59489)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1019:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cry, a cry a sensible cry for many months together hath been in my heart for the Quakers return out of that Egyptian darkness they have long lain in, to the grief of the souls of the righteous, and those that truly loved them.</title>
+                  <author>Mudd, Ann.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Ann Mudd by Wing and NUC pre-1956 imprints.</note>
+                  <note>"Ann Mudd was an adherent of John Pennyman, who saw this work through the press"--NUC pre-1956 imprints.</note>
+                  <note>Signed on p. 6: A.M.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:59489:1" rendition="simple:additions"/>
+            <head>
+               <hi>A Cry, A Cry:</hi> A ſenſible Cry for many Months toge<g ref="char:EOLhyphen"/>ther hath been in my Heart for the <hi>QUAKERS</hi> Return out of that <hi>E<g ref="char:EOLhyphen"/>gyptian Darkneſs</hi> they have long lain in, to the grief of the Souls of the Righ<g ref="char:EOLhyphen"/>teous, and thoſe that truly loved them.</head>
+            <div type="body_of_tract">
+               <p>O Ye that were my Friends, I am conſtrained in bowels of Love, and much tenderneſs, to beſeech you (who are not ſtupified) that you will with all ſpeed conſi<g ref="char:EOLhyphen"/>der ſeriouſly what is become of the Talent, I ſay, that Talent which was given in to prove you; for the Moſt High this day calls for an Account of You unjuſt Stewards. Oh how exceſſively do you run headlong, waſting that which was committed to your charge! Oh be aſhamed and bluſh! But indeed the unjuſt Steward will know no ſhame. Verily the Lord<g ref="char:punc">▪</g>s Hand is againſt you, and even a great Miſt, and thick Darkneſs is fallen upon You, ſo that you grope at Noon-day: Therefore in the ſimplicity of my heart I deſire you to ariſe from your ſelf-conceitedneſs; for in the Power of Him that is the ſearcher of all hearts, I tell You that this is not your Reſt, it is polluted, and the Famine is grievous to behold, for the Corn is waſted, and the Fig-tree doth not bear; yea, the Plague is begun in ſome of your Houſes, and yet You ſearch not diligently to heal the Wound; it is deep, it is deep. O return, return unto the LORD, ye fallen Men; how have you betray'd your truſt? Have you not put the Lord of Life to open ſhame? have you not cryed, <hi>Crucifie him, Crucifie him?</hi> have you
+<pb n="2" facs="tcp:59489:2"/>
+not ſpoken loftily againſt the Lord's Anointed? are you not found in the Ballance of ſcant meaſure, yea, ſcant meaſure indeed? There<g ref="char:EOLhyphen"/>fore I muſt tell you, (O that you could feel me in the juſt ballance of Love) for your Backſliding and Rebellion, to Judgment you muſt come. A true ſaying indeed, <hi>They which led thee, cauſed thee to err.</hi>
+               </p>
+               <p>Wo unto you that are revolted from the Lord; Oppreſſion, Oppreſſi<g ref="char:EOLhyphen"/>on is in the midſt of you, for you are found to deal very treacherouſly with your Brethren: Therefore He that ſearcheth the Heart and tri<g ref="char:EOLhyphen"/>eth the Reins, He it is that hath made you a Contemptible People. Oh conſider when you were Children, and little in your own Eyes, how were you beloved? O ſeek now the Peace of the City, and let the Cap<g ref="char:EOLhyphen"/>tives return, for it is high time. In the Humility Peace is found. If a ſearch be made with all your Hearts<g ref="char:punc">▪</g> then will the Faithful ſay, Come, and let us return unto the Lord, for we have polluted his holy Name.</p>
+               <p>Oh what will become of you that have turned Judgment backward, and have hated him that reproveth in the Gate! and him that ſpeak<g ref="char:EOLhyphen"/>eth uprightly unto you, you have daily in deriſion. Doth not Cruelty lodge amongſt you, O ye backſliding falſe-hearted Men? Why do you call your ſelves <hi>the People of the Lord?</hi> ſurely you muſt firſt ariſe from the dead, before you can aſſume that weighty and honourable title; for it belongs not unto you, but to the Children, the Lord's Heri<g ref="char:EOLhyphen"/>tage.</p>
+               <p>O you that are fat and full, and very rich too. I muſt tell you, that it is the Meek and the Lowly that ſhall inherit the Kingdom, and not You, becauſe you are ſo ſeated upon the throne of Iniquity, that the Throne of Righteouſneſs can have no fellowſhip with you. O when will you cry out unto the Lord and ſay, My leanneſs, my leanneſs! I pray you now conſider (in the cool of the day) how often the Lord's Love hath been handed forth unto you for your everlaſting Redempti<g ref="char:EOLhyphen"/>on; ſurely He will not always ſtrive with you, ye vain Men; you have highly provoked Him; yea, your provocations have been very grievous againſt the Lord and His little Ones: verily the time is ful<g ref="char:EOLhyphen"/>filled which a Servant of the Lord Propheſied concerning you, <hi>That the Sword of the Lord, which is now drawn, is not to be put up, until you humble your ſelves and be brought low.</hi> O conſider how your Elders and Teachers are found Revolters this day, the beloved Fruit of whoſe Womb is as Dung before the Lord. Wherefore be awakened and look about you, and behold and ſee how the Cities are ſhut up, and few amongſt you that mind it; but the Upright-hearted that are ſeparated from you, they lay it to heart. O when will you ſpeak
+<pb n="3" facs="tcp:59489:2"/>
+very Man Truth to his Neighbour, and execute the Judgment of Truth and Peace in your Gates? If you do this in Truth and Sincerity as to the Lord, then ſurely He will not loath your Offerings, for verily as yet they are Abomination unto His Righteous Soul. O why are you ſlidden back, by a perpetual backſliding? And do you not hold faſt the deceit of your corrupt Hearts, and refuſe to return to the living God? Nay, have you not ſet your Abominations before the eyes of the Juſt One? Verily you have forgotten the Lord, and that to the hurt of your own Souls; Therefore now amend your ways and your doings, and obey the voice of Him that cries for Purity. It is high time to call for cleanſing, a clenſing is required this day, yea verily the Camp of the moſt High muſt be clean, there is no room for the running Iſſue, nor the Leper.</p>
+               <p>O that my Counſel might find acceptance with you, then would you break off your Sins by Righteouſneſs, and turn every one from his evil way, and from the violence that is in his hands, that there may be a ceaſing from innocent blood, and from all manner of iniquity! Which day hath long been lookt for by the Upright-hearted. O have you not been an Aſſembly of treacherous Men? O return again and be valiant for the Truth, and proceed no longer from evil to evil: for why do you refuſe to know the Lord? and why are you gone from the Antient Paths, and walk in paths not caſt up, where the rubbiſh choaks up the <hi>Good old Way?</hi>
+               </p>
+               <p>Now conſider, the Lord knows your manifold Tranſgreſſions, and your mighty Sins, how they afflict the Juſt, and oppreſs the poor. Alas! alas! He regardeth nor the offering of your fat Beaſts; ſurely if you were the Miniſters of the Lord, there would be found amongſt you [in this <hi>diſmal day</hi>] great ſearching of Hearts, and a ſinking down, ſaying, What is the matter that we are under ſo many Calamities? O why tranſgreſs you thus againſt the Lord? Verily you can never proſper; Why? becauſe you have forſaken the Lord, and He hath forſaken you.</p>
+               <p>O bear with me a little, ſeeing that many amongſt you glory and boaſt exceedingly after the fleſh. I muſt tell you, Not You that com<g ref="char:EOLhyphen"/>mend your ſelves, are approved; but whom the Lord commendeth, in<g ref="char:EOLhyphen"/>deed, that is he. But no marvel that this is come upon you: for Sa<g ref="char:EOLhyphen"/>tan himſelf is crept in amongſt you that love the chiefeſt Seats in your new Synagogues, and the uppermoſt places at your Feaſts; who de<g ref="char:EOLhyphen"/>vour Widows houſes, and for a ſhew make long Prayers, for which your Condemnation will be the greater. O what iniquity have you found in the Juſt Holy One of <hi>Iſrael,</hi> that you are gone ſo far from
+<pb n="4" facs="tcp:59489:3"/>
+Him, and walk after your own Inventions! O conſider, did not the Lord plant Thee a noble Vine, an holy right Seed? how then art Thou turned into the degenerate Plant of a ſtrange Vine? Surely Your own Wickedneſs ſhall correct You, and Your Backſlidings ſhall reprove You.</p>
+               <p>O ſearch your Hearts with a ſingle Eye, and ponder well what Your Meetings are for: Are they not to exalt your Selves, and to make You ſeem more holy than You are? Can You think they are for the better? nay, You have loſt the better part, which once you had, and inſtead of that, you have got a cuſtom to utter your own Imagi<g ref="char:EOLhyphen"/>nations, which indeed are but the words of an imperious whoriſh Woman, who ſits in the midſt of You, decked with filthy polluted Rags, like a Monſtrous Woman with her ſtrange Apparel. O it is time for You to throw out this Abominable Harlot, if ever You will be Honourable, and without reproof before the Lord and his faithful Servants.</p>
+               <p>I muſt alſo mind You of your unworthy dealings with a Servant of the Lord, <hi>J. P.</hi> how You have rendred him to the Nation, as one of the worſt of Men, to be <hi>diſtracted, inſtigated by the Devil,</hi> and <hi>in that ſpirit that crucified Chriſt, &amp;c.</hi> intending thereby his utter Ruine and Diſgrace. Was not this a Blood-thirſty ſpirit? was not this the ſpirit that murdered the Juſt in all Ages? O how can You have the Confidence to look him in the face without remorſe! Who amongſt You hath he wronged? and yet how have you revil'd, and endea<g ref="char:EOLhyphen"/>voured (as much as in you lay) to incenſe the Magiſtrates and People againſt him! witneſs your Paper, dated the 10th day of the Month called <hi>Auguſt,</hi> 1670, <hi>&amp;c.</hi> And had not the Magiſtrates been more merciful than You, he might have periſhed through Your Inſtiga<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Many a time I have wondred in my heart why You ſhould ſo much deſpiſe, revile and reject <hi>J. P.</hi> and yet own many amongſt You who have been guilty of ſuch notorious Crimes, that many of thoſe You call <hi>[of the World]</hi> would deteſt and abhor: but it ſeems Your delight hath been to defame a clean and an Upright Man without cauſe. Sure<g ref="char:EOLhyphen"/>ly the day will come that there will be a ſearching of hearts for theſe things; then every one of You will be ſenſible of his own Sore, and feel his own Grief. And the deſire of my Soul is that it may be ſo: for. I take no delight to mention theſe things, but that you may ſee the evil of your doings, and repent.</p>
+               <p>Ah! how long ſhall vain thoughts, and wicked imaginations lodg
+<pb n="5" facs="tcp:59489:3"/>
+within You? O when will Ye cleanſe your Hearts from ſecret Sins? O when ſhall it once be, ſaith my Soul? Surely Ye cannot but confeſs that your Defence is departed from You: for You have provoked the Lord to cry out, <hi>How long will this People provoke me? how long ſhall I bear with this evil Generation?</hi> O how good was God unto You while ye were of clean hearts! but now You are ſo corrupt, that the Al<g ref="char:EOLhyphen"/>mighty can take no pleaſure where you ſtand. O conſider how wick<g ref="char:EOLhyphen"/>edly you have acted your parts in the Sanctuary, that was once the Lord's dwelling-place, but now a den of Thieves and Robbers; but you cannot rob God of his Honour in his Choſen Ones; ſurely the Lord will not paſs by your offences, until you acknowledg and return from them. O how long will it be ere you attain to Innocency! How is my heart enlarged this day to praiſe the Lord God of my Life! for his Loving-kindneſs hath been wondrous great towards my Soul, in ſaving me, that I did not partake with Your Idolatry: And indeed, it was high time for me to depart; for I ſaw You ſought af<g ref="char:EOLhyphen"/>ter New Gods, whom my Soul abhorred, bleſſed be GOD for ever! ſo that you forſaking the Prince of Peace, War entred into your Gates, and now Ye ſit as Men of War, lording it over the Conſciences of your Brethren. But the Lord will not leave them in your hands: for a Scattering is begun, and in the Day of his Power there will be a Glorious Manifeſtation of the Lord's own begetting; ſo that there will be no need of running from Sea to Sea, to hear a Divination of Dead Men among the Tombs: For the Prince of Peace is come, and coming, gently to lead thoſe that are with young. And though You have rejected Him, yet the Lord waits to be gracious, if You will accept of his Appearance in You, and reſolve to follow Him fully: if not, he will utterly reject You, ſo that you ſhall have no portion in the Land of the Living: for you know you have been warned time after time by the Lord's faithful Servants who came amongſt you, becauſe their defence was with them. Oh Praiſes, Praiſes be unto our Father, who hath made us to ſtand faſt in that Liberty wherewith He hath made us free, ſo that we are not now any longer to be en<g ref="char:EOLhyphen"/>ſnared again with the yoak of Bondage amongſt falſe Brethren.</p>
+               <p>The time of <hi>Joſeph</hi>'s love to his Brethren could no longer be hid, be<g ref="char:EOLhyphen"/>cauſe of their great diſtreſs, but he muſt make himſelf known to them, to haſten them to the Land of <hi>Goſhan;</hi> for the Famine which had been for ſome years was very ſore, inſomuch that there was no Bread left. Oh come, come away and feel me in the Land of the living. I beſeech you, regard now no longer your old rotten ſtuff, but come and dwell
+<pb n="6" facs="tcp:59489:4"/>
+for evermore in the Lord's Land, where you will want for nothing that is good. If you will but obey Him, and ſtand in awe of Him, then who can withſtand the Lord's Mercy towards you?</p>
+               <p>Oh you that have been faithful unto the Lord, he hath choſen you to ſtand before Him this day; therefore be faithful in your ſeveral places. The day and hour is come, that we are now no longer to bow to Man, but to every Manifeſtation of the Lord God of Life and Po<g ref="char:EOLhyphen"/>wer.</p>
+               <p>Thus in the Sincerity and Simplicity of my Heart I have ſerved you, and in ſo doing I have my reward.</p>
+               <closer>
+                  <signed>A. M.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head>A Poſtſcript.</head>
+               <p>VVO, Wo to you that oppreſs your Brethren! uſing all Craft and Policy to ſtifle their tender Conſciences who cannot own you to be their Head; therefore a Day of Di<g ref="char:EOLhyphen"/>ſtreſs, Confuſion and Perplexity is come, and coming upon you: and thoſe evil Reports you have falſly caſt upon them, will mani<g ref="char:EOLhyphen"/>feſtly appear to be true of your ſelves. Falſe Coin ſhall not always paſs for current Money; and let <hi>George Fox,</hi> and thoſe that uphold him, remember 'twas <hi>Jeroboam</hi> the Son of <hi>Nebat</hi> that caus'd Iſrael to ſin, and who did evil above all that were before him: and as his Name was branded to poſterity, even ſo ſhall Yours be.</p>
+            </div>
+         </div>
+         <div type="tract">
+            <head>This following was formerly writ by another.</head>
+            <p>MY Soul ſaith in the bitterneſs thereof, O what wilt thou do for thy great Name? ſhall it be diſhonored, and ſhall none lay it to heart? ſhall the leadings of his Spirit be departed from, and ſhall none take it to be their Guide? where are they that are valiant for the Truth, and are ſteadfaſtly ſet to follow the Lord fully?</p>
+            <p>
+               <pb n="7" facs="tcp:59489:4"/>Where's the mind that's ſo humbled, as to follow Him through all Reproaches? and where are they who live by Faith, and not at all by ſight? where's the hungerers after the true Bread? and where is the ſlain mind to all viſible things? where are the often viſiters of the Seed? and where are its true and faithful companions? who ſuffers with It in its forſaken ſtate, and who joyns to It in all exerciſes? who are now ſo upright in heart to Him, as to break off from all outward fellowſhips, both in Tranſgreſſions and ſeeming Righteouſneſs, that the pure Marriage-State they may come to know, even to be of his Fleſh, and of his Bone? This is the Virgin unto whom He is joyn'd, that hath put away all other Lovers, and whoſe full ſatisfaction is in the enjoyment of Him alone. This, this is He who hath been ſought after in all Forms; and this is He, whoſe pure Appearance makes them all vaniſh before Him. He is come, He is come; but who can receive Him? The Eye that's abroad cannot ſee Him; the Mind that's at eaſe cannot behold Him: they that are full, ſee no want of Him; they that ſlumber, hear Him not: but the <hi>Silent Waiter</hi> hath joy in his Preſence. Even ſo, O Lord, let thy Childrens whole delight be in Thee.</p>
+            <p>I have often heard the voice of one crying in the Wilderneſs, <hi>Pre<g ref="char:EOLhyphen"/>pare ye the Way of the Lord:</hi> and in ſadneſs I have ſaid, Who are pre<g ref="char:EOLhyphen"/>paring for Him? I know aſſuredly He will appear, and then will all be aſhamed that were at Reſt without Him.</p>
+            <p>THe Bows of the Mighty Men are broken, and the LORD is the Refuge of his People.</p>
+            <p>The Poor hath cry'd, and hath been heard; the Humble ſhall be ex<g ref="char:EOLhyphen"/>alted, and the Proud brought low.</p>
+            <p>Trouble, faint-heartedneſs and weakneſs is ſeizing upon the Hypo<g ref="char:EOLhyphen"/>crite: But Peace, Courage and Strength is encreaſing upon the Up<g ref="char:EOLhyphen"/>right and Simple-hearted.</p>
+            <p>Deceit is brought to light, the deeds of Darkneſs diſcover'd, and the Glory of Righteouſneſs ſhall ſhine.</p>
+            <p>The Boaſter is brought to Shame, the ſtrength of the Lofty is become weakneſs: ſhall not the hearts of the Upright rejoice in fear and trembling?</p>
+            <p>The Warf<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re indeed is great, and Temptations many to draw back<g ref="char:punc">▪</g> but bleſſed are they who look not out at hardſhips, ſo Peace may be ob<g ref="char:EOLhyphen"/>tained in the End.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1678.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
